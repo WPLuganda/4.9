@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the WordPress - 4.9.x - Development - Continents & Cities package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: +0000\n"
+"PO-Revision-Date: 2018-06-01 23:08:04+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -577,7 +577,7 @@ msgstr ""
 
 #: wp-admin/includes/continents-cities.php:429
 msgid "Europe"
-msgstr ""
+msgstr "Bulaaya"
 
 #: wp-admin/includes/continents-cities.php:427
 msgid "Zulu"
@@ -1970,7 +1970,7 @@ msgstr ""
 
 #: wp-admin/includes/continents-cities.php:68
 msgid "America"
-msgstr ""
+msgstr "Amerika"
 
 #: wp-admin/includes/continents-cities.php:69
 msgid "Adak"
