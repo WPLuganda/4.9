@@ -14,93 +14,93 @@ msgstr ""
 #. translators: %s: DO_NOT_UPGRADE_GLOBAL_TABLES
 #: wp-admin/includes/network.php:107
 msgid "The constant %s cannot be defined when creating a network."
-msgstr ""
+msgstr "Akatakyuka %s tekategereka nga tukola omukutu guno."
 
 #: wp-admin/network/sites.php:173
 msgid "You are about to delete the following sites:"
-msgstr ""
+msgstr "Olikumpi to gyamu sayiiti zino wamaanga:"
 
 #: wp-admin/network/site-users.php:237
 msgid "User could not be added to this site."
-msgstr ""
+msgstr "Omukozi tasobolwa kwongerrebwa ku sayiiti eno."
 
 #: wp-admin/network/site-new.php:252
 msgid "The username and a link to set the password will be mailed to this email address."
-msgstr ""
+msgstr "Erinya ne linki ebi kuyamba okutekamu password biri kusindikibwa ku emeyiro yo."
 
 #. translators: %s: new network admin email
 #: wp-admin/network/settings.php:145
 msgid "There is a pending change of the network admin email to %s."
-msgstr ""
+msgstr "Okyakyussa emeyiro yo mukutu guno ebere %s kubulamu."
 
 #: wp-admin/includes/network.php:294
 msgid "Sub-domain Installation"
-msgstr ""
+msgstr "Domeini edirwako erikutongozebwa"
 
 #: wp-admin/includes/network.php:269 wp-admin/includes/network.php:284
 msgid "Sub-directory Installation"
-msgstr ""
+msgstr "Eterekerro eridirwakko lirikutongozebwa"
 
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:636
 msgid "Active Child Theme"
-msgstr ""
+msgstr "Enfanana edirwakko eri kumwanjo"
 
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:631
 msgid "Active Theme"
-msgstr ""
+msgstr "Enfanana eri kumwanjo"
 
 #: wp-admin/network/site-info.php:180
 msgid "Attributes"
-msgstr ""
+msgstr "Abubonero"
 
 #. translators: %s: File size in kilobytes
 #: wp-admin/network/settings.php:350
 msgid "%s KB"
-msgstr ""
+msgstr "%s KB"
 
 #. translators: %s: Default network name
 #: wp-admin/includes/network.php:160
 msgid "%s Sites"
-msgstr ""
+msgstr "%s Sayiiti"
 
 #. translators: %s: theme name
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:454
 msgctxt "theme"
 msgid "Delete %s"
-msgstr ""
+msgstr "Gyamu %s"
 
 #: wp-admin/network/themes.php:90
 msgid "Sorry, you are not allowed to delete themes for this site."
-msgstr ""
+msgstr "Bambi, tokilizibwa ku gyamu enfanana zino mu sayiiti eno."
 
 #: wp-admin/network/themes.php:14
 msgid "Sorry, you are not allowed to manage network themes."
-msgstr ""
+msgstr "Bambi, tokilizibwa ku labirila mukutu guno."
 
 #: wp-admin/network/sites.php:288
 msgid "Sorry, you are not allowed to delete that site."
-msgstr ""
+msgstr "Bambi, tokilizibwa ku gyamu sayiiti eno."
 
 #: wp-admin/network/site-themes.php:14
 msgid "Sorry, you are not allowed to manage themes for this site."
-msgstr ""
+msgstr "Bambi, tokilizibwa kukyusa enfanana ya sayiiti eno."
 
 #: wp-admin/network/site-new.php:17
 msgid "Sorry, you are not allowed to add sites to this network."
-msgstr ""
+msgstr "Bambi, tokilizibwa kwongera sayiiti ku mukutu guno."
 
 #: wp-admin/network/site-info.php:14 wp-admin/network/site-settings.php:14
 #: wp-admin/network/site-users.php:14
 msgid "Sorry, you are not allowed to edit this site."
-msgstr ""
+msgstr "Bambi, tokilizibwa ku terezza sayiiti eno."
 
 #: wp-admin/network/settings.php:308
 msgid "The email address of the first comment author on a new site."
-msgstr ""
+msgstr "Emeyiro yo muteesa asooka ku sayiiti empya."
 
 #: wp-admin/network/settings.php:304
 msgid "First Comment Email"
-msgstr ""
+msgstr "Emeyiro ye kitesso ekisooka"
 
 #. translators: This string should only be translated if wp-config-sample.php
 #. is localized. You can check the localized release package or
@@ -108,33 +108,33 @@ msgstr ""
 #. version>/dist/wp-config-sample.php
 #: wp-admin/includes/network.php:436
 msgid "That&#8217;s all, stop editing! Happy blogging."
-msgstr ""
+msgstr "Keykyo, lekera okukyusa ebiriwo! Okuwandika Okulungi."
 
 #. translators: 1: wp-config.php 2: location of wp-config file, 3: translated
 #. version of "That's all, stop editing! Happy blogging."
 #: wp-admin/includes/network.php:428
 msgid "Add the following to your %1$s file in %2$s <strong>above</strong> the line reading %3$s:"
-msgstr ""
+msgstr "Gatta bino mu %1$s fayiro mu %2$s <strong>waggulu</strong> wa layini eyokusoma 3%$s:"
 
 #. translators: 1: theme name, 2: theme author
 #: wp-admin/network/themes.php:138
 msgctxt "theme"
 msgid "%1$s by %2$s"
-msgstr ""
+msgstr "%1$s kulwa %2$s"
 
 #. translators: %s: edit page url
 #: wp-admin/network/user-new.php:80
 msgid "User added. <a href=\"%s\">Edit user</a>"
-msgstr ""
+msgstr "Omukozi agatiddwako. <a href=\"%s\">Terezza ebikwwata ku mukozi</a>"
 
 #: wp-admin/network/site-new.php:208
 msgid "Only lowercase letters (a-z), numbers, and hyphens are allowed."
-msgstr ""
+msgstr "Obunyukutta obutono obwa (a-z), ennamba, ne hyphen byebikiribizibwa byokka."
 
 #: wp-admin/network/site-new.php:158
 msgctxt "email \"From\" field"
 msgid "Site Admin"
-msgstr ""
+msgstr "Omukulembereze Omukulu wa sayiiti"
 
 #. translators: 1: wp-config.php
 #: wp-admin/includes/network.php:479
