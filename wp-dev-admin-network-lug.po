@@ -134,28 +134,28 @@ msgstr "Obunyukutta obutono obwa (a-z), ennamba, ne hyphen byebikiribizibwa byok
 #: wp-admin/network/site-new.php:158
 msgctxt "email \"From\" field"
 msgid "Site Admin"
-msgstr "Omukulembereze Omukulu wa sayiiti"
+msgstr "Omukulu wa sayiiti"
 
 #. translators: 1: wp-config.php
 #: wp-admin/includes/network.php:479
 msgid "These unique authentication keys are also missing from your %s file."
-msgstr ""
+msgstr "Ebisumuluzo bino ebyenjawulo bibulamu mu %s failo yo."
 
 #. translators: 1: wp-config.php
 #: wp-admin/includes/network.php:473
 msgid "This unique authentication key is also missing from your %s file."
-msgstr ""
+msgstr "Ekisumuluzo kino ekyenjawulo kibulamu mu %s failo yo."
 
 #. translators: 1: wp-config.php
 #: wp-admin/includes/network.php:417
 msgid "We recommend you back up your existing %s file."
-msgstr ""
+msgstr "Tukusaba oyokesemu koppi ya failo eno %s"
 
 #. translators: 1: wp-config.php 2: .htaccess
 #. translators: 1: wp-config.php 2: web.config
 #: wp-admin/includes/network.php:401 wp-admin/includes/network.php:409
 msgid "We recommend you back up your existing %1$s and %2$s files."
-msgstr ""
+msgstr "Tukusaba oyokesemu koppi ya failo zo %1$s ne %2$s"
 
 #. translators: 1: localhost 2: localhost.localdomain
 #: wp-admin/includes/network.php:273
