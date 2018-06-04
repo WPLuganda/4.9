@@ -28,7 +28,7 @@ msgstr ""
 
 #: wp-admin/includes/file.php:1893
 msgid "Unable to create export folder."
-msgstr ""
+msgstr "Tekisobose kukola terekelo"
 
 #. translators: %s: Privacy Policy Guide URL
 #: wp-admin/includes/misc.php:1356
@@ -37,7 +37,7 @@ msgstr ""
 
 #: wp-admin/privacy.php:214
 msgid "There are no pages."
-msgstr ""
+msgstr "Tewali miko"
 
 #: wp-admin/privacy.php:212
 msgid "Or:"
@@ -45,12 +45,12 @@ msgstr "Oba:"
 
 #: wp-admin/privacy.php:186
 msgid "Select an existing page:"
-msgstr ""
+msgstr "Londawo ku miko"
 
 #. translators: %s is the update notification bubble, if updates are available.
 #: wp-admin/menu.php:266
 msgid "Privacy %s"
-msgstr ""
+msgstr "Ebyaama %s"
 
 #. translators: %s is the update notification bubble, if updates are available.
 #: wp-admin/menu.php:258
@@ -111,11 +111,11 @@ msgstr ""
 #. translators: %s: plugin name
 #: wp-admin/includes/misc.php:1594
 msgid "Source: %s"
-msgstr ""
+msgstr "Ensulo: %s"
 
 #: wp-admin/includes/misc.php:1580
 msgid "Updated %s."
-msgstr ""
+msgstr "Bikyusidwa %s"
 
 #: wp-admin/includes/misc.php:1575
 msgid "You deactivated this plugin on %s and may no longer need this policy."
@@ -123,11 +123,11 @@ msgstr ""
 
 #: wp-admin/includes/misc.php:1573
 msgid "Removed %s."
-msgstr ""
+msgstr "Ebigidwaawo %s"
 
 #: wp-admin/includes/misc.php:1562 wp-admin/includes/misc.php:1627
 msgid "Introduction"
-msgstr ""
+msgstr "Okwanjula"
 
 #: wp-admin/includes/user.php:930
 msgid "Invalid request ID when processing eraser data."
