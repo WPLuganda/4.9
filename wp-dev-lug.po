@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the WordPress - 4.9.x - Development package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: +0000\n"
+"PO-Revision-Date: 2018-06-02 23:16:42+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -16,37 +16,37 @@ msgstr ""
 #. not translate into your own language.
 #: wp-includes/general-template.php:704
 msgid "html_lang_attribute"
-msgstr ""
+msgstr "html_lang_attribute"
 
 #. translators: 'rtl' or 'ltr'. This sets the text direction for WordPress.
 #: wp-includes/class-wp-locale.php:228
 msgctxt "text direction"
 msgid "ltr"
-msgstr ""
+msgstr "ltr"
 
 #. translators: $thousands_sep argument for
 #. https://secure.php.net/number_format, default is ,
 #: wp-includes/class-wp-locale.php:207
 msgid "number_format_thousands_sep"
-msgstr ""
+msgstr "number_format_thousands_sep"
 
 #. translators: $dec_point argument for https://secure.php.net/number_format,
 #. default is .
 #: wp-includes/class-wp-locale.php:220
 msgid "number_format_decimal_point"
-msgstr ""
+msgstr "number_format_decimal_point"
 
 #: wp-includes/user.php:3128
 msgid "The site administrator has been notified. You will receive an email confirmation when they erase your data."
-msgstr ""
+msgstr "Adukanya omukutu ategezzedwa. Ojjakufuna yimeiro ekakasa nga ebikukwata ko bisanguddwa."
 
 #: wp-includes/user.php:3127
 msgid "Thanks for confirming your erasure request."
-msgstr ""
+msgstr "Webaale kukiriza ku simulamu ebyama ebikukwata ko."
 
 #: wp-includes/user.php:3125
 msgid "The site administrator has been notified. You will receive a link to download your export via email when they fulfill your request."
-msgstr ""
+msgstr "Adukanya omukutu ategezzedwa. Ojjakufuna endagiriro yo kufuna fayiro nga oyita mu yimeiro yo kasita omaliriza okusaba kwo."
 
 #: wp-includes/user.php:3124
 msgid "Thanks for confirming your export request."
@@ -121,7 +121,7 @@ msgstr ""
 
 #: wp-includes/user.php:3214
 msgid "Erase Personal Data"
-msgstr ""
+msgstr "Simulamu ebyama ebikukwata ko"
 
 #: wp-includes/comment-template.php:2208
 msgid "Save my name, email, and website in this browser for the next time I comment."
@@ -304,25 +304,25 @@ msgstr ""
 
 #: wp-includes/post.php:787
 msgid "Completed"
-msgstr ""
+msgstr "Kiwedde"
 
 #: wp-includes/post.php:785
 msgid "Confirmed"
-msgstr ""
+msgstr "Kikakasiddwa"
 
 #: wp-includes/post.php:784
 msgid "Pending"
-msgstr ""
+msgstr "Bibulamu"
 
 #: wp-includes/post.php:306
 msgctxt "request status"
 msgid "Completed"
-msgstr ""
+msgstr "Kiwedde"
 
 #: wp-includes/post.php:299
 msgctxt "request status"
 msgid "Failed"
-msgstr ""
+msgstr "Tekikiriziddwa"
 
 #: wp-includes/post.php:292
 msgctxt "request status"

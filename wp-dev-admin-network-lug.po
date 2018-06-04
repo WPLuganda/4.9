@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the WordPress - 4.9.x - Development - Administration - Network Admin package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: +0000\n"
+"PO-Revision-Date: 2018-06-02 22:38:16+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -18,7 +18,7 @@ msgstr "Akatakyuka %s tekategereka nga tukola omukutu guno."
 
 #: wp-admin/network/sites.php:173
 msgid "You are about to delete the following sites:"
-msgstr "Ogenda ku gyamu sayiiti zino wamaanga:"
+msgstr "Olikumpi to gyamu sayiiti zino wamaanga:"
 
 #: wp-admin/network/site-users.php:237
 msgid "User could not be added to this site."
@@ -114,7 +114,7 @@ msgstr "Keykyo, lekera okukyusa ebiriwo! Okuwandika Okulungi."
 #. version of "That's all, stop editing! Happy blogging."
 #: wp-admin/includes/network.php:428
 msgid "Add the following to your %1$s file in %2$s <strong>above</strong> the line reading %3$s:"
-msgstr "Gatta bino mu %1$s fayiro mu %2$s <strong>waggulu</strong> wa layini eyokusoma 3%$s:"
+msgstr "Gatta bino mu fayiro %1$s mu %2$s <strong>waggulu</strong> wa layini eyokusoma %3$s:"
 
 #. translators: 1: theme name, 2: theme author
 #: wp-admin/network/themes.php:138
@@ -155,7 +155,7 @@ msgstr "Tukusaba oyokesemu koppi ya failo eno %s."
 #. translators: 1: wp-config.php 2: web.config
 #: wp-admin/includes/network.php:401 wp-admin/includes/network.php:409
 msgid "We recommend you back up your existing %1$s and %2$s files."
-msgstr "Tukusaba oyokesemu koppi ya failo zo %1$s ne %2$s."
+msgstr "Tukusaba oyokesemu koppi ya failo zo %1$s ne %2$s"
 
 #. translators: 1: localhost 2: localhost.localdomain
 #: wp-admin/includes/network.php:273
@@ -170,11 +170,11 @@ msgstr "Akasanduku k'omukutu gwo ku yintaneti kajjakubeera %s."
 #. translators: 1: site url 2: host name 3. www
 #: wp-admin/includes/network.php:246
 msgid "We recommend you change your siteurl to %1$s before enabling the network feature. It will still be possible to visit your site using the %3$s prefix with an address like %2$s but any links will not have the %3$s prefix."
-msgstr "Tukusaba okyusse erinya lya sayiiti ebeere %1s nga tonaba ku tesako ebikola byomukutu. Okirizibwa okulaba sayiiti yo nga okozessa akasokerwako %3$s n'akasanduku nga %2$s naye ebikusonga tebigya ku beera n'obusekelwako %3$s."
+msgstr "Tukusaba okyusse erinya lya sayiiti ebeere %1$s nga tonaba ku tesako ebikola byomukutu. Okirizibwa okulaba sayiiti yo nga okozessa akasokerwako %3$s n'akasanduku nga %2$s naye ebikusonga tebigya ku beera n'obusekelwako %3$s."
 
 #: wp-admin/includes/network.php:212
 msgid "You cannot change this later."
-msgstr "Ojjakuba tokya sobola kukyusa bino eda."
+msgstr "Tosobola kukyusa bino eda."
 
 #: wp-admin/includes/network.php:211
 msgid "Please choose whether you would like sites in your WordPress network to use sub-domains or sub-directories."
@@ -194,12 +194,12 @@ msgstr "Kirabika module ya Apache %s terimu mu nkola."
 #. translators: %s: mod_rewrite
 #: wp-admin/includes/network.php:184
 msgid "Please make sure the Apache %s module is installed as it will be used at the end of this installation."
-msgstr "Kebera oba module ya Apache %s mweri munkola kubanga yetagisibwa oluvannyuma lwo kutongoza kuno"
+msgstr "Kebera oba module ya Apache %s mweri munkola kubanga yetagisibwa oluvannyuma lwo kutongoza kuno."
 
 #. translators: %s: port number
 #: wp-admin/includes/network.php:134
 msgid "You cannot use port numbers such as %s."
-msgstr "Tosoboola ku kozessa amakubo oba pooti zino nga %s"
+msgstr "Tosoboola ku kozessa amakubo oba pooti zino nga %s."
 
 #: wp-admin/includes/class-wp-ms-users-list-table.php:171
 msgctxt "user"
@@ -229,7 +229,7 @@ msgstr ""
 #. translators: %s: theme name
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:545
 msgid "Visit %s homepage"
-msgstr "Kyalira Awasokera kwo ku sayiiti"
+msgstr ""
 
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:518
 msgid "Broken Theme:"
@@ -1193,55 +1193,55 @@ msgstr ""
 
 #: wp-admin/network/settings.php:299
 msgid "The author of the first comment on a new site."
-msgstr ""
+msgstr "Omuteesa eyasosse ku sayiiti empya."
 
 #: wp-admin/network/upgrade.php:68
 msgid "All done!"
-msgstr ""
+msgstr "Byona biwedde!"
 
 #: wp-admin/network/settings.php:171
 msgid "Registration is disabled"
-msgstr ""
+msgstr "Okwewandissa kugaddwa wo"
 
 #: wp-admin/network/settings.php:172
 msgid "User accounts may be registered"
-msgstr ""
+msgstr "Akawunta za bakozi ziyinza okubba zawandisizibwa"
 
 #: wp-admin/network/settings.php:174
 msgid "Both sites and user accounts can be registered"
-msgstr ""
+msgstr "Sayiiti ne akawunta za bakozi zisoboolwa okuwandisizibwa"
 
 #: wp-admin/network/settings.php:173
 msgid "Logged in users may register new sites"
-msgstr ""
+msgstr "Abakozi abalina ebisanyizzo bayinza okuwandisa sayiiti empya"
 
 #: wp-admin/network/settings.php:159
 msgid "Registration Settings"
-msgstr ""
+msgstr "Emitendera gy'okwewandissa"
 
 #: wp-admin/network/settings.php:241
 msgid "New Site Settings"
-msgstr ""
+msgstr "Emitendera gya sayiiti empya"
 
 #: wp-admin/network/settings.php:322
 msgid "Upload Settings"
-msgstr ""
+msgstr "Emitendera gy'okuwaniika"
 
 #: wp-admin/network/settings.php:122
 msgid "Operational Settings"
-msgstr ""
+msgstr "Emitendera gy'enkola yabulijjo"
 
 #: wp-admin/network/settings.php:398
 msgid "Enable administration menus"
-msgstr ""
+msgstr "Kiriza menu za abatesiteesi"
 
 #: wp-admin/network/site-new.php:83
 msgid "Missing email address."
-msgstr ""
+msgstr "Yimeyiro ezibulakko"
 
 #: wp-admin/network/site-new.php:80
 msgid "Missing or invalid site address."
-msgstr ""
+msgstr "Amanya ga sayiiti agabulakko oba agatakiribwa."
 
 #: wp-admin/network/upgrade.php:112
 msgid "Next Sites"
@@ -1261,7 +1261,7 @@ msgstr "Ekifo kyo ku kutekako sayiiti empya"
 
 #: wp-admin/network/settings.php:250
 msgid "The welcome email sent to new site owners."
-msgstr "Yimeiro e'yanirizza esindikiddwa eri bananyini ba sayiiti empya"
+msgstr "Yimeiro e'yanirizza esindikirwa eri bananyini sayiiti empya."
 
 #. translators: %s: network name
 #: wp-admin/network/site-new.php:143
@@ -1290,7 +1290,7 @@ msgstr "Olurimi olusokerwako"
 
 #: wp-admin/network/settings.php:345
 msgid "Max upload file size"
-msgstr ""
+msgstr "Sayizi ya fayiro esinga okurizibwa"
 
 #: wp-admin/network/settings.php:313
 msgid "First Comment URL"
@@ -1330,11 +1330,11 @@ msgstr "Okwewandissa kwa yimeiro okusengejjamu"
 
 #: wp-admin/network/settings.php:207
 msgid "Banned Names"
-msgstr "Amanya agakozesebwa"
+msgstr "Amanya agatakirizibwa"
 
 #: wp-admin/network/settings.php:200
 msgid "Add New Users"
-msgstr "Yongera ko abakozi"
+msgstr "Wandissa abakozi abapya"
 
 #: wp-admin/network/settings.php:189
 msgid "Registration notification"
@@ -1354,4 +1354,4 @@ msgstr "Tosobola mu kola linnya lya mukozi eryelere."
 
 #: wp-admin/network/sites.php:107 wp-admin/network/sites.php:185
 msgid "Confirm"
-msgstr "Kakasa"
+msgstr "Okakasa"
